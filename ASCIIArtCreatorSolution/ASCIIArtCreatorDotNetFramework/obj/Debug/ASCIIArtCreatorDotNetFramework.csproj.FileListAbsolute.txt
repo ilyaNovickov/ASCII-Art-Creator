@@ -1,0 +1,11 @@
+C:\Users\ACER\Documents\Projects\ASCIIArtCreatorSolution\ASCIIArtCreatorDotNetFramework\bin\Debug\ASCIIArtCreatorDotNetFramework.exe.config
+C:\Users\ACER\Documents\Projects\ASCIIArtCreatorSolution\ASCIIArtCreatorDotNetFramework\bin\Debug\ASCIIArtCreatorDotNetFramework.exe
+C:\Users\ACER\Documents\Projects\ASCIIArtCreatorSolution\ASCIIArtCreatorDotNetFramework\bin\Debug\ASCIIArtCreatorDotNetFramework.pdb
+C:\Users\ACER\Documents\Projects\ASCIIArtCreatorSolution\ASCIIArtCreatorDotNetFramework\obj\Debug\ASCIIArtCreatorDotNetFramework.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Projects\ASCIIArtCreatorSolution\ASCIIArtCreatorDotNetFramework\obj\Debug\ASCIIArtCreatorDotNetFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\Projects\ASCIIArtCreatorSolution\ASCIIArtCreatorDotNetFramework\obj\Debug\ASCIIArtCreatorDotNetFramework.Form1.resources
+C:\Users\ACER\Documents\Projects\ASCIIArtCreatorSolution\ASCIIArtCreatorDotNetFramework\obj\Debug\ASCIIArtCreatorDotNetFramework.Properties.Resources.resources
+C:\Users\ACER\Documents\Projects\ASCIIArtCreatorSolution\ASCIIArtCreatorDotNetFramework\obj\Debug\ASCIIArtCreatorDotNetFramework.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Projects\ASCIIArtCreatorSolution\ASCIIArtCreatorDotNetFramework\obj\Debug\ASCIIArtCreatorDotNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Projects\ASCIIArtCreatorSolution\ASCIIArtCreatorDotNetFramework\obj\Debug\ASCIIArtCreatorDotNetFramework.exe
+C:\Users\ACER\Documents\Projects\ASCIIArtCreatorSolution\ASCIIArtCreatorDotNetFramework\obj\Debug\ASCIIArtCreatorDotNetFramework.pdb
